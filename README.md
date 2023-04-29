@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 Interested full-stack projects <br>Current software engineer student<br>Always worrying about security ;)<br> 🌱 I belive in the mentality of helping as many with tech!<br> ⚡  Coffee Addict 
+🔭 Interested full-stack projects <br>Current software engineer student<br>Always worrying about security ;)<br> 🌱 I believe in the mentality of helping as many with tech!<br> ⚡  Coffee Addict 
 
 
 ## 🌐 Socials:
